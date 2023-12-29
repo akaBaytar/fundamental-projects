@@ -20,7 +20,7 @@
 `http://localhost:5173/`
 
 ### Screenshot
-![Screenshot](/public/screenshot.png) 
+![Screenshot](./public/screenshot.png) 
 
 ### License
 This project is licensed under the MIT License.

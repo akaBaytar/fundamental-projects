@@ -1,4 +1,4 @@
-![Backroads Logo](/public/assets/logo.svg) 
+![Backroads Logo](./public/assets/logo.svg) 
 - Backroads is a project where I migrated an HTML and CSS-coded website to React using Vite. 
 - This project has been a valuable contribution to my learning journey with React.
 
@@ -20,7 +20,7 @@
 `http://localhost:5173/`
 
 ## Screenshot
-![Screenshot](/public/assets/screencapture.png) 
+![Screenshot](./public/assets/screencapture.png) 
 
 ## License
 This project is licensed under the MIT License.
